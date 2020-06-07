@@ -1,1 +1,1 @@
-# Terraform Module AWS Key Pair
+# Terraform Module for AWS Key Pair
