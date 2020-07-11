@@ -1,7 +1,3 @@
-variable "keypair_name" {
-  default = ""
-}
+variable "keypair_name" {}
 
-variable "keypair_file" {
-  default = ""
-}
+variable "keypair_file" {}
