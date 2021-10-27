@@ -1,7 +1,7 @@
-output "info-keypair-name" {
-  value = aws_key_pair.awx_keypairs.key_name
+output "key_name" {
+  value = aws_key_pair.key.key_name
 }
 
-output "info-keypair-id" {
-  value = aws_key_pair.awx_keypairs.key_pair_id
+output "key_pair_id" {
+  value = aws_key_pair.key.key_pair_id
 }
