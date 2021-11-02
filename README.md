@@ -1,4 +1,4 @@
-# AWS Keypair Terraform module
+# Amazon EC2 key paris module Terraform module
 
 Terraform module which creates Keypair resources on AWS.
 
